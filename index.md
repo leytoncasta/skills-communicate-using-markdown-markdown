@@ -12,3 +12,7 @@ method(){
   system.out.printl("This is a challenge");
 }
 ```
+## Task list
+  - [X] Turn on GitHub Pages
+  - [ ] Outline my portfolio
+  - [ ] Introduce myself to the world
